@@ -1,4 +1,4 @@
-//Security Alarm System
+//Arduino Security Alarm System
 const int trigPin = 9;
 const int echoPin = 10;
 const int buzzer = 11;
